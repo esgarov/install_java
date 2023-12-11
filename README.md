@@ -18,6 +18,6 @@ User must have sudo privileges to update packages.
 ## Usage
 1.Clone this repository or download the script file directly.
 2.Make the script executable:
-'''bash
+```bash
 chmod +x install_java.sh
-'''
+```
